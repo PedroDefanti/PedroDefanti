@@ -20,7 +20,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribuições
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroDefanti&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=00D9FF&icon_color=00D9FF&rank_icon=github"/>
