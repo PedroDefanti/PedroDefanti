@@ -15,5 +15,5 @@
 
 ---
 
-
+![Pac-Man Animation](https://raw.githubusercontent.com/PedroDefanti/PedroDefanti/output/pacman-contribution-graph-dark.svg)
 
