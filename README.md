@@ -1,20 +1,20 @@
 <div>
 
-
 ### 💻 Linguagens
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📱Front-end
-
+### 📱 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-
-
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -27,6 +27,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDefanti&layout=compact&theme=blue-green&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=00D9FF"/>
 </div>
 
-
 ![Pac-Man Animation](https://raw.githubusercontent.com/PedroDefanti/PedroDefanti/output/pacman-contribution-graph-dark.svg)
-
