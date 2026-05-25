@@ -23,8 +23,7 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroDefanti&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=00D9FF&icon_color=00D9FF&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDefanti&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=00D9FF"/>
+  
 </div>
 
 <div align="center">
